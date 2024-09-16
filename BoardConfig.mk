@@ -64,6 +64,17 @@ TW_USE_NEW_MINADBD := true
 TW_EXCLUDE_PYTHON := true
 TW_EXCLUDE_TWRPAPP := true
 
+#Ignore Missing Dependencies
+ALLOW_MISSING_DEPENDENCIES=true
+
+#SHRP_Variables
+SHRP_PATH := device/samsung/zerolte
+SHRP_MAINTAINER := suhezxo
+SHRP_DEVICE_CODE := zerolte
+SHRP_REC_TYPE := Normal
+SHRP_DEVICE_TYPE := A-Only
+SHRP_DARK := true
+
 # exFAT drivers included in the kernel
 TW_NO_EXFAT_FUSE := true
 
