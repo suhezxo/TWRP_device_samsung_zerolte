@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/twrp_zerolte.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_zerolte.mk
